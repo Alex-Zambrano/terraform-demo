@@ -12,4 +12,4 @@ enable_gateway = false
 apim_name       = "apim-demo-standard"
 publisher_name  = "Demo Corporativa"
 publisher_email = "apim@empresa.com"
-enable_apim = true
+enable_apim = false
