@@ -1,6 +1,4 @@
-#location            = "East US"
-
-resource_group_name = "1-acd5ade8-playground-sandbox"
+resource_group_name = "1-f2b6c84c-playground-sandbox"
 
 # Red
 vnet_name           = "vnet-apim-demo"
