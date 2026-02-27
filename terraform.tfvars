@@ -1,4 +1,4 @@
-resource_group_name = "1-f2b6c84c-playground-sandbox"
+resource_group_name = "1-fe63533a-playground-sandbox"
 
 # Red
 vnet_name           = "vnet-apim-demo"
